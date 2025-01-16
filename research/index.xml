@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Research on </title>
+    <title>Researches on Rocío Sepúlveda-Manzo</title>
     <link>http://localhost:1313/research/</link>
-    <description>Recent content in Research on </description>
+    <description>Recent content in Researches on Rocío Sepúlveda-Manzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>© Rocío Sepúlveda Manzo</copyright>
+    <copyright>© Rocío Sepúlveda-Manzo</copyright>
     <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/reseach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/reseach/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;H. Pasten, R. Sepúlveda-Manzo, &lt;em&gt;On the $abc$ and the $abcd$ conjectures&lt;/em&gt;. Preprint (2024) (&lt;a href=&#34;https://arxiv.org/abs/2406.05083&#34;&gt;arXiv&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<ul>
+<li>H. Pasten, R. Sepúlveda-Manzo, <em>On the $abc$ and the $abcd$ conjectures</em>. Preprint (2024) (<a href="https://arxiv.org/abs/2406.05083">arXiv</a>)</li>
+</ul>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>
