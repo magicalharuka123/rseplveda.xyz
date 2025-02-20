@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rocío Sepúlveda-Manzo</title>
-    <link>https://rseplveda.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Rocío Sepúlveda-Manzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>© Rocío Sepúlveda-Manzo</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rseplveda.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>https://rseplveda.xyz/notes/notes/</link>
+      <link>http://localhost:1313/notes/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rseplveda.xyz/notes/notes/</guid>
+      <guid>http://localhost:1313/notes/notes/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Talks&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/magicalharuka123/notes/raw/main/Borrador%202%20charla%20hcf.pdf&#34;&gt;Hilbert Class Field and Artin’s Symbol (en español)&lt;/a&gt; This lecture was part of the seminar on Explicit Class Field Theory taught in the first semester at PUC. It introduces the concepts of place, ramification, Hilbert class fields, and the Artin symbol.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/cimpa.pdf&#34;&gt;On the problem of the rank of the Mordell-Weil group&lt;/a&gt; This presentation covered my research conducted during my master&amp;rsquo;s program, delivered at the CIMPA School 2025 in Valparaíso.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><strong>Talks</strong></p>
 <ul>
@@ -61,9 +61,9 @@ temporary pdf file <a href="https://github.com/JoseCuevasBtos/Serre-l-adic-Repre
     </item>
     <item>
       <title>Research</title>
-      <link>https://rseplveda.xyz/research/reseach/</link>
+      <link>http://localhost:1313/research/reseach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rseplveda.xyz/research/reseach/</guid>
+      <guid>http://localhost:1313/research/reseach/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;H. Pasten, R. Sepúlveda-Manzo, &lt;em&gt;On the $abc$ and the $abcd$ conjectures&lt;/em&gt;. Preprint (2024) (&lt;a href=&#34;https://arxiv.org/abs/2406.05083&#34;&gt;arXiv&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       <content:encoded><![CDATA[<ul>
 <li>H. Pasten, R. Sepúlveda-Manzo, <em>On the $abc$ and the $abcd$ conjectures</em>. Preprint (2024) (<a href="https://arxiv.org/abs/2406.05083">arXiv</a>)</li>
@@ -72,19 +72,17 @@ temporary pdf file <a href="https://github.com/JoseCuevasBtos/Serre-l-adic-Repre
     </item>
     <item>
       <title>Number Theory (Teaching assistant)</title>
-      <link>https://rseplveda.xyz/notes/assistant-nt/</link>
+      <link>http://localhost:1313/notes/assistant-nt/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rseplveda.xyz/notes/assistant-nt/</guid>
-      <description>&lt;h2 id=&#34;notes-and-exercise&#34;&gt;Notes and exercise&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; The course of Number Theory dicted by Héctor Pasten in 2024-2&#xA;has&lt;/p&gt;&#xA;&lt;p&gt;In the number theory course taught by the professor Héctor Pastén in 2024, where&#xA;I was the&#xA;teaching assistant, they had tutorial sessions focused on solving exercises.&#xA;Additionally, I had the freedom to propose research topics for the reports,&#xA;which were the primary method of assessment for the course. Below are the notes&#xA;and exercises from the research topics proposed for this undergraduate course&lt;/p&gt;</description>
+      <guid>http://localhost:1313/notes/assistant-nt/</guid>
+      <description>&lt;h2 id=&#34;notes-and-exercise&#34;&gt;Notes and exercise&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; In the number theory course taught by the professor Héctor&#xA;Pastén in 2024, where I was the teaching assistant, they had tutorial sessions&#xA;focused on solving exercises.  Additionally, I had the freedom to propose&#xA;research topics for the reports, which were the primary method of assessment for&#xA;the course. Below are the notes and exercises from the research topics proposed&#xA;for this undergraduate course&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ayudantía 1 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay01.pdf&#34;&gt;Divisibilibad y Funciones Multiplicativa&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 2 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay02.pdf&#34;&gt;Distribución de primos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 3 &lt;a href=&#34;https://github.com/magicalharuka123/assistant-teaching-nt-2024/raw/main/ay03.pdf&#34;&gt;Fracciones continuas y Aproximación diofantina&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 4 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay04.pdf&#34;&gt;Ecuación de Pell&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 5 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay05.pdf&#34;&gt;Introducción a los $p$-ádicos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 6 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay06.pdf&#34;&gt;SAGE y la conjetura $abc$&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 7 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay07.pdf&#34;&gt;SAGE y Curvas elípticas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 8 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay08.pdf&#34;&gt;Altura y aritmética dinámica&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       <content:encoded><![CDATA[<h2 id="notes-and-exercise">Notes and exercise</h2>
-<p><strong>Description</strong> The course of Number Theory dicted by Héctor Pasten in 2024-2
-has</p>
-<p>In the number theory course taught by the professor Héctor Pastén in 2024, where
-I was the
-teaching assistant, they had tutorial sessions focused on solving exercises.
-Additionally, I had the freedom to propose research topics for the reports,
-which were the primary method of assessment for the course. Below are the notes
-and exercises from the research topics proposed for this undergraduate course</p>
+<p><strong>Description</strong> In the number theory course taught by the professor Héctor
+Pastén in 2024, where I was the teaching assistant, they had tutorial sessions
+focused on solving exercises.  Additionally, I had the freedom to propose
+research topics for the reports, which were the primary method of assessment for
+the course. Below are the notes and exercises from the research topics proposed
+for this undergraduate course</p>
 <ul>
 <li>Ayudantía 1 <a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay01.pdf">Divisibilibad y Funciones Multiplicativa</a></li>
 <li>Ayudantía 2 <a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay02.pdf">Distribución de primos</a></li>
@@ -99,25 +97,32 @@ and exercises from the research topics proposed for this undergraduate course</p
     </item>
     <item>
       <title>Seminar of Number Theory</title>
-      <link>https://rseplveda.xyz/notes/seminar-nt/</link>
+      <link>http://localhost:1313/notes/seminar-nt/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rseplveda.xyz/notes/seminar-nt/</guid>
-      <description>&lt;h2 id=&#34;seminar-of-number-theory-2024-2&#34;&gt;Seminar of Number Theory (2024-2)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt; Héctor Pastén and Rocío Sepúlveda Manzo&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; The seminar&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Schedule 2024-2&lt;/strong&gt; The seminar was held on Fridays at 14:00 pm in Room 2 of the Faculty of Mathematics, Pontificia Universidad Católica de Chile.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Talks&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Talk 1 (10/11) Rodrigo Galaz: Introducción a la Conjetura de Mordell I&lt;/li&gt;&#xA;&lt;li&gt;Talk 2 (10/18) Héctor Pastén: Introducción a la Conjetura de Mordell II&lt;/li&gt;&#xA;&lt;li&gt;Talk 3 (10/25) Matías Alvarado: Hacia el teorema de Chabauty&lt;/li&gt;&#xA;&lt;li&gt;Talk 4 (11/08) Siddhi Pathak (invited speaker, Chennai): On the zeros of variants of&#xA;Ramanujan polynomials&lt;/li&gt;&#xA;&lt;li&gt;Talk 5 (11/15) Rocío Sepúlveda-Manzo: Teorema de Chabauty&lt;/li&gt;&#xA;&lt;li&gt;Talk 6 (11/22) Héctor Pastén: Preliminares para Manin-Dem&amp;rsquo;janenko&lt;/li&gt;&#xA;&lt;li&gt;Talk 7 (11/29) José Cuevas-Barrientos: Demostración de Manin-Dem&amp;rsquo;janenko y&#xA;aplicaciones&lt;/li&gt;&#xA;&lt;li&gt;Talk 8 (12/06) Matías Bruna (invited speaker, UofT): Sobre la representación&#xA;de enteros como suma de cuadrados.&lt;/li&gt;&#xA;&lt;li&gt;Talk 9 (12/19) Dino Lorenzini (invited speaker, UGA): Resolution of wild&#xA;$\mathbb{Z} / p \mathbb{Z}$-quotient singularities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;© Rocío Sepúlveda Manzo | Made with &lt;a href=&#34;https://github.com/clente/hugo-bearcub&#34;&gt;Bear Cub&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/notes/seminar-nt/</guid>
+      <description>&lt;h2 id=&#34;seminar-of-number-theory-2024-2&#34;&gt;Seminar of Number Theory (2024-2)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt; Héctor Pastén and Rocío Sepúlveda Manzo&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; This seminar covered various topics in number theory, including&#xA;fundamental conjectures and theorems. The first talks introduced Mordell&amp;rsquo;s&#xA;Conjecture, followed by discussions on Chabauty&amp;rsquo;s Theorem and its implications.&#xA;Later sessions explored the Manin-Dem&amp;rsquo;janenko theorem, integer representations&#xA;as sums of squares, and singularity resolution. The seminar featured invited&#xA;talks by Siddhi Pathak (Chennai) and Dino Lorenzini (University of Georgia),&#xA;enriching the discussions with insights on Ramanujan polynomials, integer&#xA;representations, and wild quotient singularities.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="seminar-of-number-theory-2024-2">Seminar of Number Theory (2024-2)</h2>
 <p><strong>Organizers</strong> Héctor Pastén and Rocío Sepúlveda Manzo</p>
-<p><strong>Description</strong> The seminar</p>
+<p><strong>Description</strong> This seminar covered various topics in number theory, including
+fundamental conjectures and theorems. The first talks introduced Mordell&rsquo;s
+Conjecture, followed by discussions on Chabauty&rsquo;s Theorem and its implications.
+Later sessions explored the Manin-Dem&rsquo;janenko theorem, integer representations
+as sums of squares, and singularity resolution. The seminar featured invited
+talks by Siddhi Pathak (Chennai) and Dino Lorenzini (University of Georgia),
+enriching the discussions with insights on Ramanujan polynomials, integer
+representations, and wild quotient singularities.</p>
 <p><strong>Schedule 2024-2</strong> The seminar was held on Fridays at 14:00 pm in Room 2 of the Faculty of Mathematics, Pontificia Universidad Católica de Chile.</p>
 <p><strong>Talks</strong></p>
 <ul>
 <li>Talk 1 (10/11) Rodrigo Galaz: Introducción a la Conjetura de Mordell I</li>
 <li>Talk 2 (10/18) Héctor Pastén: Introducción a la Conjetura de Mordell II</li>
-<li>Talk 3 (10/25) Matías Alvarado: Hacia el teorema de Chabauty</li>
+<li>Talk 3 (10/25) Matías Alvarado: Hacia el teorema de Chabauty <a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/Hacia_el_teorema_de_Chabauty-1.pdf">(pdf)</a></li>
 <li>Talk 4 (11/08) Siddhi Pathak (invited speaker, Chennai): On the zeros of variants of
 Ramanujan polynomials</li>
-<li>Talk 5 (11/15) Rocío Sepúlveda-Manzo: Teorema de Chabauty</li>
+<li>Talk 5 (11/15) Rocío Sepúlveda-Manzo: Teorema de Chabauty <a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/chabauty-thm.pdf">(pdf)</a></li>
 <li>Talk 6 (11/22) Héctor Pastén: Preliminares para Manin-Dem&rsquo;janenko</li>
 <li>Talk 7 (11/29) José Cuevas-Barrientos: Demostración de Manin-Dem&rsquo;janenko y
-aplicaciones</li>
+aplicaciones <a href="https://github.com/JoseCuevasBtos/apuntes-tex/raw/master/articulos/manin_demjanenko.pdf">(pdf)</a></li>
 <li>Talk 8 (12/06) Matías Bruna (invited speaker, UofT): Sobre la representación
 de enteros como suma de cuadrados.</li>
 <li>Talk 9 (12/19) Dino Lorenzini (invited speaker, UGA): Resolution of wild
@@ -128,9 +133,9 @@ $\mathbb{Z} / p \mathbb{Z}$-quotient singularities</li>
     </item>
     <item>
       <title>Seminar on Galois Representations</title>
-      <link>https://rseplveda.xyz/notes/seminar-galois/</link>
+      <link>http://localhost:1313/notes/seminar-galois/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://rseplveda.xyz/notes/seminar-galois/</guid>
+      <guid>http://localhost:1313/notes/seminar-galois/</guid>
       <description>&lt;h2 id=&#34;seminar-on-galois-representations-and-their-l-functions-2023-2&#34;&gt;Seminar on Galois Representations and their $L$-functions (2023-2)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt; Héctor Pastén and Rocío Sepúlveda Manzo&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; The seminar on Galois Representations and their $L$- functions aims to learn tools from group representation theory with an emphasis on applications to number theory, specifically oriented towards the Tate Conjecture.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Schedule 2023-2&lt;/strong&gt; The seminar was held on Fridays at 9:40 am in Room 5 of the Faculty of Mathematics, Pontificia Universidad Católica de Chile.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="seminar-on-galois-representations-and-their-l-functions-2023-2">Seminar on Galois Representations and their $L$-functions (2023-2)</h2>
 <p><strong>Organizers</strong> Héctor Pastén and Rocío Sepúlveda Manzo</p>
