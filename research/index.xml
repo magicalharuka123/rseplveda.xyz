@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Researches on Rocío Sepúlveda-Manzo</title>
+    <link>https://rseplveda.xyz/research/</link>
+    <description>Recent content in Researches on Rocío Sepúlveda-Manzo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>© Rocío Sepúlveda-Manzo</copyright>
+    <atom:link href="https://rseplveda.xyz/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://rseplveda.xyz/research/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rseplveda.xyz/research/research/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;H. Pasten, R. Sepúlveda-Manzo, &lt;em&gt;On the $abc$ and the $abcd$ conjectures&lt;/em&gt;. Preprint (2024) (&lt;a href=&#34;https://doi.org/10.1007/s00574-025-00476-1&#34;&gt;&lt;strong&gt;Bull Braz Math Soc, New Series 56, 54 (2025)&lt;/strong&gt;.&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;My &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/rsepulveda%28tesis%29.pdf&#34;&gt;Master’s thesis&lt;/a&gt; is titled &amp;ldquo;On the finite rank problem of the Mordell–Weil group&amp;rdquo;. A journal article based on this thesis is currently in preparation.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;My &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/rsepulveda%28undergraduate_tesis%29.pdf&#34;&gt;Undergraduate’s thesis&lt;/a&gt; is titled &amp;ldquo;Valores de la función dseta de Riemann&amp;rdquo; (en español). In this work I studied Beukers&amp;rsquo; proof of the irrationality of $\zeta(3)$ using integral methods.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<ul>
+<li>
+<p>H. Pasten, R. Sepúlveda-Manzo, <em>On the $abc$ and the $abcd$ conjectures</em>. Preprint (2024) (<a href="https://doi.org/10.1007/s00574-025-00476-1"><strong>Bull Braz Math Soc, New Series 56, 54 (2025)</strong>.</a>)</p>
+</li>
+<li>
+<p>My <a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/rsepulveda%28tesis%29.pdf">Master’s thesis</a> is titled &ldquo;On the finite rank problem of the Mordell–Weil group&rdquo;. A journal article based on this thesis is currently in preparation.</p>
+</li>
+<li>
+<p>My <a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/rsepulveda%28undergraduate_tesis%29.pdf">Undergraduate’s thesis</a> is titled &ldquo;Valores de la función dseta de Riemann&rdquo; (en español). In this work I studied Beukers&rsquo; proof of the irrationality of $\zeta(3)$ using integral methods.</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
