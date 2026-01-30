@@ -2,27 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rocío Sepúlveda-Manzo</title>
-    <link>http://localhost:1313/</link>
+    <link>https://rseplveda.xyz/</link>
     <description>Recent content on Rocío Sepúlveda-Manzo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>© Rocío Sepúlveda-Manzo</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rseplveda.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/notes/notes/</link>
+      <link>https://rseplveda.xyz/notes/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/notes/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Talks&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/magicalharuka123/notes/raw/main/Borrador%202%20charla%20hcf.pdf&#34;&gt;Hilbert Class Field and Artin’s Symbol (en español)&lt;/a&gt; This lecture was part of the seminar on Explicit Class Field Theory taught in the first semester at PUC. It introduces the concepts of place, ramification, Hilbert class fields, and the Artin symbol.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/cimpa.pdf&#34;&gt;On the problem of the rank of the Mordell-Weil group&lt;/a&gt; This presentation covered my research conducted during my master&amp;rsquo;s program, delivered at the CIMPA School 2025 in Valparaíso.&lt;/p&gt;</description>
+      <guid>https://rseplveda.xyz/notes/notes/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Talks&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/magicalharuka123/notes/raw/main/Borrador%202%20charla%20hcf.pdf&#34;&gt;Hilbert Class Field and Artin’s Symbol (en español)&lt;/a&gt; This lecture was part of the seminar on Explicit Class Field Theory taught in the first semester at PUC. It introduces the concepts of place, ramification, Hilbert class fields, and the Artin symbol.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Seminars&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rseplveda.xyz/notes/seminar-galois/&#34;&gt;Seminar on Galois representations and their $L$-functions (en español) 2023-2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rseplveda.xyz/notes/seminar-nt/&#34;&gt;Seminar of Number Theory (en español) 2024-2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Extras&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://rseplveda.xyz/notes/assistant-nt/&#34;&gt;Assistantships Number Theory 2024-2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/JoseCuevasBtos/Serre-l-adic-Representations&#34;&gt;J.-P. Serre. &lt;em&gt;Abelian $\ell$-adic representations and elliptic curves&lt;/em&gt;&lt;/a&gt;&lt;br&gt;&#xA;This book, published originally in 1989 by Addison-Wesley, is a classic&#xA;onewith two main issues for future diffusion: the first being that it is out&#xA;of print; and the second being that it is written in typewriter machine. The need for this&#xA;book is that modern texts on elliptic curves or abelian varieties don’t go&#xA;deep enough on the subject (including Silverman’s &lt;em&gt;Advanced topics…&lt;/em&gt;), while&#xA;it is still acknowledged as obligatory for investigation purposes.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><strong>Talks</strong></p>
 <ul>
-<li>
-<p><a href="https://github.com/magicalharuka123/notes/raw/main/Borrador%202%20charla%20hcf.pdf">Hilbert Class Field and Artin’s Symbol (en español)</a> This lecture was part of the seminar on Explicit Class Field Theory taught in the first semester at PUC. It introduces the concepts of place, ramification, Hilbert class fields, and the Artin symbol.</p>
-</li>
-<li>
-<p><a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/cimpa.pdf">On the problem of the rank of the Mordell-Weil group</a> This presentation covered my research conducted during my master&rsquo;s program, delivered at the CIMPA School 2025 in Valparaíso.</p>
-</li>
+<li><a href="https://github.com/magicalharuka123/notes/raw/main/Borrador%202%20charla%20hcf.pdf">Hilbert Class Field and Artin’s Symbol (en español)</a> This lecture was part of the seminar on Explicit Class Field Theory taught in the first semester at PUC. It introduces the concepts of place, ramification, Hilbert class fields, and the Artin symbol.</li>
 </ul>
 <p><strong>Seminars</strong></p>
 <ul>
@@ -39,9 +34,6 @@
 <p><a href="/notes/assistant-nt/">Assistantships Number Theory 2024-2</a></p>
 </li>
 <li>
-<p><a href="https://github.com/magicalharuka123/notes/raw/main/Taller-iniciacion.pdf">Undergraduate’s thesis</a></p>
-</li>
-<li>
 <p><a href="https://github.com/JoseCuevasBtos/Serre-l-adic-Representations">J.-P. Serre. <em>Abelian $\ell$-adic representations and elliptic curves</em></a><br>
 This book, published originally in 1989 by Addison-Wesley, is a classic
 onewith two main issues for future diffusion: the first being that it is out
@@ -56,25 +48,32 @@ temporary pdf file <a href="https://github.com/JoseCuevasBtos/Serre-l-adic-Repre
 <p>We thank <a href="https://www.mat.uniroma2.it/~schoof/">René Schoof</a> and Jean-Pierre Serre himself for their corrections to the project.</p>
 </li>
 </ul>
-<!-- raw HTML omitted -->
 ]]></content:encoded>
     </item>
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/reseach/</link>
+      <link>https://rseplveda.xyz/research/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/reseach/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;H. Pasten, R. Sepúlveda-Manzo, &lt;em&gt;On the $abc$ and the $abcd$ conjectures&lt;/em&gt;. Preprint (2024) (&lt;a href=&#34;https://arxiv.org/abs/2406.05083&#34;&gt;arXiv&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://rseplveda.xyz/research/research/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;H. Pasten, R. Sepúlveda-Manzo, &lt;em&gt;On the $abc$ and the $abcd$ conjectures&lt;/em&gt;. Preprint (2024) (&lt;a href=&#34;https://doi.org/10.1007/s00574-025-00476-1&#34;&gt;&lt;strong&gt;Bull Braz Math Soc, New Series 56, 54 (2025)&lt;/strong&gt;.&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;My &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/rsepulveda%28tesis%29.pdf&#34;&gt;Master’s thesis&lt;/a&gt; is titled &amp;ldquo;On the finite rank problem of the Mordell–Weil group&amp;rdquo;. A journal article based on this thesis is currently in preparation.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;My &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/rsepulveda%28undergraduate_tesis%29.pdf&#34;&gt;Undergraduate’s thesis&lt;/a&gt; is titled &amp;ldquo;Valores de la función dseta de Riemann&amp;rdquo; (en español). In this work I studied Beukers&amp;rsquo; proof of the irrationality of $\zeta(3)$ using integral methods.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<ul>
-<li>H. Pasten, R. Sepúlveda-Manzo, <em>On the $abc$ and the $abcd$ conjectures</em>. Preprint (2024) (<a href="https://arxiv.org/abs/2406.05083">arXiv</a>)</li>
+<li>
+<p>H. Pasten, R. Sepúlveda-Manzo, <em>On the $abc$ and the $abcd$ conjectures</em>. Preprint (2024) (<a href="https://doi.org/10.1007/s00574-025-00476-1"><strong>Bull Braz Math Soc, New Series 56, 54 (2025)</strong>.</a>)</p>
+</li>
+<li>
+<p>My <a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/rsepulveda%28tesis%29.pdf">Master’s thesis</a> is titled &ldquo;On the finite rank problem of the Mordell–Weil group&rdquo;. A journal article based on this thesis is currently in preparation.</p>
+</li>
+<li>
+<p>My <a href="https://github.com/magicalharuka123/pdfs-web-page/raw/main/rsepulveda%28undergraduate_tesis%29.pdf">Undergraduate’s thesis</a> is titled &ldquo;Valores de la función dseta de Riemann&rdquo; (en español). In this work I studied Beukers&rsquo; proof of the irrationality of $\zeta(3)$ using integral methods.</p>
+</li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
       <title>Number Theory (Teaching assistant)</title>
-      <link>http://localhost:1313/notes/assistant-nt/</link>
+      <link>https://rseplveda.xyz/notes/assistant-nt/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/assistant-nt/</guid>
+      <guid>https://rseplveda.xyz/notes/assistant-nt/</guid>
       <description>&lt;h2 id=&#34;notes-and-exercise&#34;&gt;Notes and exercise&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; In the number theory course taught by the professor Héctor&#xA;Pastén in 2024, where I was the teaching assistant, they had tutorial sessions&#xA;focused on solving exercises.  Additionally, I had the freedom to propose&#xA;research topics for the reports, which were the primary method of assessment for&#xA;the course. Below are the notes and exercises from the research topics proposed&#xA;for this undergraduate course&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ayudantía 1 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay01.pdf&#34;&gt;Divisibilibad y Funciones Multiplicativa&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 2 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay02.pdf&#34;&gt;Distribución de primos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 3 &lt;a href=&#34;https://github.com/magicalharuka123/assistant-teaching-nt-2024/raw/main/ay03.pdf&#34;&gt;Fracciones continuas y Aproximación diofantina&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 4 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay04.pdf&#34;&gt;Ecuación de Pell&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 5 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay05.pdf&#34;&gt;Introducción a los $p$-ádicos&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 6 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay06.pdf&#34;&gt;SAGE y la conjetura $abc$&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 7 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay07.pdf&#34;&gt;SAGE y Curvas elípticas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Ayudantía 8 &lt;a href=&#34;https://github.com/magicalharuka123/pdfs-web-page/raw/main/ay08.pdf&#34;&gt;Altura y aritmética dinámica&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       <content:encoded><![CDATA[<h2 id="notes-and-exercise">Notes and exercise</h2>
 <p><strong>Description</strong> In the number theory course taught by the professor Héctor
@@ -97,9 +96,9 @@ for this undergraduate course</p>
     </item>
     <item>
       <title>Seminar of Number Theory</title>
-      <link>http://localhost:1313/notes/seminar-nt/</link>
+      <link>https://rseplveda.xyz/notes/seminar-nt/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/seminar-nt/</guid>
+      <guid>https://rseplveda.xyz/notes/seminar-nt/</guid>
       <description>&lt;h2 id=&#34;seminar-of-number-theory-2024-2&#34;&gt;Seminar of Number Theory (2024-2)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt; Héctor Pastén and Rocío Sepúlveda Manzo&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; This seminar covered various topics in number theory, including&#xA;fundamental conjectures and theorems. The first talks introduced Mordell&amp;rsquo;s&#xA;Conjecture, followed by discussions on Chabauty&amp;rsquo;s Theorem and its implications.&#xA;Later sessions explored the Manin-Dem&amp;rsquo;janenko theorem, integer representations&#xA;as sums of squares, and singularity resolution. The seminar featured invited&#xA;talks by Siddhi Pathak (Chennai) and Dino Lorenzini (University of Georgia),&#xA;enriching the discussions with insights on Ramanujan polynomials, integer&#xA;representations, and wild quotient singularities.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="seminar-of-number-theory-2024-2">Seminar of Number Theory (2024-2)</h2>
 <p><strong>Organizers</strong> Héctor Pastén and Rocío Sepúlveda Manzo</p>
@@ -133,9 +132,9 @@ $\mathbb{Z} / p \mathbb{Z}$-quotient singularities</li>
     </item>
     <item>
       <title>Seminar on Galois Representations</title>
-      <link>http://localhost:1313/notes/seminar-galois/</link>
+      <link>https://rseplveda.xyz/notes/seminar-galois/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/seminar-galois/</guid>
+      <guid>https://rseplveda.xyz/notes/seminar-galois/</guid>
       <description>&lt;h2 id=&#34;seminar-on-galois-representations-and-their-l-functions-2023-2&#34;&gt;Seminar on Galois Representations and their $L$-functions (2023-2)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Organizers&lt;/strong&gt; Héctor Pastén and Rocío Sepúlveda Manzo&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt; The seminar on Galois Representations and their $L$- functions aims to learn tools from group representation theory with an emphasis on applications to number theory, specifically oriented towards the Tate Conjecture.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Schedule 2023-2&lt;/strong&gt; The seminar was held on Fridays at 9:40 am in Room 5 of the Faculty of Mathematics, Pontificia Universidad Católica de Chile.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="seminar-on-galois-representations-and-their-l-functions-2023-2">Seminar on Galois Representations and their $L$-functions (2023-2)</h2>
 <p><strong>Organizers</strong> Héctor Pastén and Rocío Sepúlveda Manzo</p>
@@ -154,7 +153,6 @@ $\mathbb{Z} / p \mathbb{Z}$-quotient singularities</li>
 <li>Talk 9 (17/11) Rocío Sepúlveda-Manzo: <a href="https://github.com/magicalharuka123/seminar-repr-galois/raw/main/charla-7-fun-L-Artin.pdf">Artin Formalism</a>.</li>
 <li>Talk 10 (24/11) Héctor Pastén: <a href="https://github.com/magicalharuka123/seminar-repr-galois/raw/main/RepGal231124.pdf">Analytical Properties of Artin LLL-functions</a>.</li>
 </ul>
-<!-- raw HTML omitted -->
 <p>© Rocío Sepúlveda Manzo | Made with <a href="https://github.com/clente/hugo-bearcub">Bear Cub</a></p>
 ]]></content:encoded>
     </item>
